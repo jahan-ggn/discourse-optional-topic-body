@@ -1,4 +1,4 @@
-TODO_plugin_name:
-  plugin_name_enabled:
+discourse_optional_topic_body:
+  discourse_optional_topic_body_enabled:
     default: false
     client: true
