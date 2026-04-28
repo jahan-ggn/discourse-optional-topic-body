@@ -6,4 +6,5 @@ en:
           discourse_optional_topic_body: "Discourse Optional Topic Body"
   js:
     discourse_optional_topic_body:
-      placeholder: placeholder
+      title: Discourse Optional Topic Body"
+      admin_navigation: Discourse Optional Topic Body"

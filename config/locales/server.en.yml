@@ -1,1 +1,3 @@
 en:
+  site_settings:
+    discourse_optional_topic_body_enabled: "Allow empty body for first post of new topics only"

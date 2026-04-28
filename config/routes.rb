@@ -5,4 +5,6 @@ DiscourseOptionalTopicBody::Engine.routes.draw do
   # define routes here
 end
 
-Discourse::Application.routes.draw { mount ::DiscourseOptionalTopicBody::Engine, at: "discourse-optional-topic-body" }
+Discourse::Application.routes.draw do
+  mount ::DiscourseOptionalTopicBody::Engine, at: "discourse-optional-topic-body"
+end
